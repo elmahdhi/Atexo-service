@@ -1,0 +1,314 @@
+[
+    {
+        "id": 1,
+        "value": 9,
+        "color": 0,
+        "libelle": "AS Coeur"
+    },
+    {
+        "id": 2,
+        "value": 10,
+        "color": 0,
+        "libelle": "Dame Coeur"
+    },
+    {
+        "id": 3,
+        "value": 11,
+        "color": 0,
+        "libelle": "Roi Coeur"
+    },
+    {
+        "id": 4,
+        "value": 12,
+        "color": 0,
+        "libelle": "Valet Coeur"
+    },
+    {
+        "id": 5,
+        "value": 0,
+        "color": 0,
+        "libelle": "2 Coeur"
+    },
+    {
+        "id": 6,
+        "value": 1,
+        "color": 0,
+        "libelle": "3 Coeur"
+    },
+    {
+        "id": 7,
+        "value": 2,
+        "color": 0,
+        "libelle": "4 Coeur"
+    },
+    {
+        "id": 8,
+        "value": 3,
+        "color": 0,
+        "libelle": "5 Coeur"
+    },
+    {
+        "id": 9,
+        "value": 4,
+        "color": 0,
+        "libelle": "6 Coeur"
+    },
+    {
+        "id": 10,
+        "value": 5,
+        "color": 0,
+        "libelle": "7 Coeur"
+    },
+    {
+        "id": 11,
+        "value": 6,
+        "color": 0,
+        "libelle": "8 Coeur"
+    },
+    {
+        "id": 12,
+        "value": 7,
+        "color": 0,
+        "libelle": "9 Coeur"
+    },
+    {
+        "id": 13,
+        "value": 8,
+        "color": 0,
+        "libelle": "10 Coeur"
+    },
+    {
+        "id": 14,
+        "value": 9,
+        "color": 1,
+        "libelle": "AS Pique"
+    },
+    {
+        "id": 15,
+        "value": 10,
+        "color": 1,
+        "libelle": "Dame Pique"
+    },
+    {
+        "id": 16,
+        "value": 11,
+        "color": 1,
+        "libelle": "Roi Pique"
+    },
+    {
+        "id": 17,
+        "value": 12,
+        "color": 1,
+        "libelle": "Valet Pique"
+    },
+    {
+        "id": 18,
+        "value": 0,
+        "color": 1,
+        "libelle": "2 Pique"
+    },
+    {
+        "id": 19,
+        "value": 1,
+        "color": 1,
+        "libelle": "3 Pique"
+    },
+    {
+        "id": 20,
+        "value": 2,
+        "color": 1,
+        "libelle": "4 Pique"
+    },
+    {
+        "id": 21,
+        "value": 3,
+        "color": 1,
+        "libelle": "5 Pique"
+    },
+    {
+        "id": 22,
+        "value": 4,
+        "color": 1,
+        "libelle": "6 Pique"
+    },
+    {
+        "id": 23,
+        "value": 5,
+        "color": 1,
+        "libelle": "7 Pique"
+    },
+    {
+        "id": 24,
+        "value": 6,
+        "color": 1,
+        "libelle": "8 Pique"
+    },
+    {
+        "id": 25,
+        "value": 7,
+        "color": 1,
+        "libelle": "9 Pique"
+    },
+    {
+        "id": 26,
+        "value": 8,
+        "color": 1,
+        "libelle": "10 Pique"
+    },
+    {
+        "id": 27,
+        "value": 9,
+        "color": 2,
+        "libelle": "AS Carreaux"
+    },
+    {
+        "id": 28,
+        "value": 10,
+        "color": 2,
+        "libelle": "Dame Carreaux"
+    },
+    {
+        "id": 29,
+        "value": 11,
+        "color": 2,
+        "libelle": "Roi Carreaux"
+    },
+    {
+        "id": 30,
+        "value": 12,
+        "color": 2,
+        "libelle": "Valet Carreaux"
+    },
+    {
+        "id": 31,
+        "value": 0,
+        "color": 2,
+        "libelle": "2 Carreaux"
+    },
+    {
+        "id": 32,
+        "value": 1,
+        "color": 2,
+        "libelle": "3 Carreaux"
+    },
+    {
+        "id": 33,
+        "value": 2,
+        "color": 2,
+        "libelle": "4 Carreaux"
+    },
+    {
+        "id": 34,
+        "value": 3,
+        "color": 2,
+        "libelle": "5 Carreaux"
+    },
+    {
+        "id": 35,
+        "value": 4,
+        "color": 2,
+        "libelle": "6 Carreaux"
+    },
+    {
+        "id": 36,
+        "value": 5,
+        "color": 2,
+        "libelle": "7 Carreaux"
+    },
+    {
+        "id": 37,
+        "value": 6,
+        "color": 2,
+        "libelle": "8 Carreaux"
+    },
+    {
+        "id": 38,
+        "value": 7,
+        "color": 2,
+        "libelle": "9 Carreaux"
+    },
+    {
+        "id": 39,
+        "value": 8,
+        "color": 2,
+        "libelle": "10 Carreaux"
+    },
+    {
+        "id": 40,
+        "value": 9,
+        "color": 3,
+        "libelle": "AS Trèfle"
+    },
+    {
+        "id": 41,
+        "value": 10,
+        "color": 3,
+        "libelle": "Dame Trèfle"
+    },
+    {
+        "id": 42,
+        "value": 11,
+        "color": 3,
+        "libelle": "Roi Trèfle"
+    },
+    {
+        "id": 43,
+        "value": 12,
+        "color": 3,
+        "libelle": "Valet Trèfle"
+    },
+    {
+        "id": 44,
+        "value": 0,
+        "color": 3,
+        "libelle": "2 Trèfle"
+    },
+    {
+        "id": 45,
+        "value": 1,
+        "color": 3,
+        "libelle": "3 Trèfle"
+    },
+    {
+        "id": 46,
+        "value": 2,
+        "color": 3,
+        "libelle": "4 Trèfle"
+    },
+    {
+        "id": 47,
+        "value": 3,
+        "color": 3,
+        "libelle": "5 Trèfle"
+    },
+    {
+        "id": 48,
+        "value": 4,
+        "color": 3,
+        "libelle": "6 Trèfle"
+    },
+    {
+        "id": 49,
+        "value": 5,
+        "color": 3,
+        "libelle": "7 Trèfle"
+    },
+    {
+        "id": 50,
+        "value": 6,
+        "color": 3,
+        "libelle": "8 Trèfle"
+    },
+    {
+        "id": 51,
+        "value": 7,
+        "color": 3,
+        "libelle": "9 Trèfle"
+    },
+    {
+        "id": 52,
+        "value": 8,
+        "color": 3,
+        "libelle": "10 Trèfle"
+    }
+]

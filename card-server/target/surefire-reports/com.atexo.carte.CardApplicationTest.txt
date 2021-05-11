@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.atexo.carte.CardApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.455 s - in com.atexo.carte.CardApplicationTest
